@@ -103,10 +103,6 @@ CIE202-project.sln
 
 ### Draw Mode
 
-<div align="center">
-  <img src="images/shape-creation.gif" alt="Shape Creation Demo" width="600"/>
-</div>
-
 1. **Creating Shapes**
    - Click on any shape icon in the toolbar
    - Click on the canvas to define the shape's points
@@ -141,10 +137,6 @@ CIE202-project.sln
    - Files are saved as `.txt` format
 
 ### Play Mode
-
-<div align="center">
-  <img src="images/screenshots/game-play.gif" alt="Game Play Demo" width="600"/>
-</div>
 
 1. Click "Play" icon to switch to Play Mode
 2. Click "Start Game" to generate cards from your drawings
@@ -199,7 +191,7 @@ CIE_202_Team03_Project/
 ## 🏗️ Class Diagram
 
 <div align="center">
-  <img src="ClassDiagram.jpg" alt="Class Diagram" width="800"/>
+  <img src="images/class-diagram.png" alt="Class Diagram" width="800"/>
 </div>
 
 The project follows object-oriented design principles with clear separation of concerns:
