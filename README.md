@@ -1,11 +1,13 @@
 # Paint & Play - Interactive Drawing & Matching Game
 
 <div align="center">
-  <img src="images/logo.png" alt="Paint & Play Logo" width="200"/>
   
-  <p align="center">
-    A C++ desktop application that combines creative drawing tools with an engaging memory-matching game. Built with object-oriented design principles and a custom GUI framework.
-  </p>
+  # Paint & Play - Interactive Drawing & Matching Game
+  
+  A C++ desktop application that combines creative drawing tools with an engaging memory-matching game. Built with object-oriented design principles and a custom GUI framework.
+  
+  [![Watch the video](images/logo.png)](https://www.youtube.com/embed/NJw2s78grn0?si=lDi_1_aG9Do8hXc_)
+
 </div>
 
 ## 🎨 About The Project
