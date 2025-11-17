@@ -6,15 +6,11 @@
   
   A C++ desktop application that combines creative drawing tools with an engaging memory-matching game. Built with object-oriented design principles and a custom GUI framework.
   
-  [![Watch the video](images/logo.png)](https://www.youtube.com/embed/NJw2s78grn0?si=lDi_1_aG9Do8hXc_)
+  [![Watch the video](images/youtube_window_1.png)](https://www.youtube.com/embed/NJw2s78grn0?si=lDi_1_aG9Do8hXc_)
 
 </div>
 
 ## 🎨 About The Project
-
-<div align="center">
-  <img src="images/main-interface.png" alt="Main Interface" width="800"/>
-</div>
 
 Paint & Play is a dual-mode application that offers both creative and entertainment features:
 
@@ -22,6 +18,10 @@ Paint & Play is a dual-mode application that offers both creative and entertainm
 - **Play Mode**: A memory-matching game that uses the shapes drawn by the user
 
 The project demonstrates advanced C++ concepts including polymorphism, inheritance, design patterns, and file I/O operations.
+
+<div align="center">
+  <img src="images/main-interface.png" alt="Main Interface" width="800"/>
+</div>
 
 ## ✨ Features
 
