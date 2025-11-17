@@ -11,7 +11,7 @@
 ## 🎨 About The Project
 
 <div align="center">
-  <img src="images/screenshots/main-interface.png" alt="Main Interface" width="800"/>
+  <img src="images/main-interface.png" alt="Main Interface" width="800"/>
 </div>
 
 Paint & Play is a dual-mode application that offers both creative and entertainment features:
@@ -26,7 +26,7 @@ The project demonstrates advanced C++ concepts including polymorphism, inheritan
 ### Draw Mode Features
 
 <div align="center">
-  <img src="images/screenshots/draw-mode.png" alt="Draw Mode" width="800"/>
+  <img src="images/draw-mode.png" alt="Draw Mode" width="800"/>
 </div>
 
 - **Shape Creation**
@@ -61,7 +61,7 @@ The project demonstrates advanced C++ concepts including polymorphism, inheritan
 ### Play Mode Features
 
 <div align="center">
-  <img src="images/screenshots/play-mode.png" alt="Play Mode" width="800"/>
+  <img src="images/play-mode.png" alt="Play Mode" width="800"/>
 </div>
 
 - **Memory Matching Game**
@@ -102,7 +102,7 @@ CIE202-project.sln
 ### Draw Mode
 
 <div align="center">
-  <img src="images/screenshots/shape-creation.gif" alt="Shape Creation Demo" width="600"/>
+  <img src="images/shape-creation.gif" alt="Shape Creation Demo" width="600"/>
 </div>
 
 1. **Creating Shapes**
