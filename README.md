@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  # Paint & Play - Interactive Drawing & Matching Game
-  
   A C++ desktop application that combines creative drawing tools with an engaging memory-matching game. Built with object-oriented design principles and a custom GUI framework.
 
 <br>
